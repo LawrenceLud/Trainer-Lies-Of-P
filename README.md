@@ -10,5 +10,5 @@ Frascos: Modifica a quantidade de Frascos que você possui no jogo
 
 Contato
 
-Se você tiver alguma dúvida ou sugestão, pode entrar em contato comigo no Discord: lulthar
+Se você tiver alguma dúvida ou sugestão, pode entrar em contato comigo no Discord: _lawrence_.
 
