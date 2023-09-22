@@ -99,7 +99,7 @@ btn2.OnClick = function()
     creditos.Top = 40
 
     local contatos = createLabel(doc)
-    contatos.Caption = "Se quiser pode me chamar no discord: lulthar"
+    contatos.Caption = "Se quiser pode me chamar no discord: lawrencelud"
     contatos.Left = 20
     contatos.Top = 60
 end
