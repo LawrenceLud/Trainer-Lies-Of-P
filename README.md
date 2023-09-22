@@ -12,3 +12,5 @@ Contato
 
 Se você tiver alguma dúvida ou sugestão, pode entrar em contato comigo no Discord: lawrencelud
 
+
+https://prnt.sc/V1_zQMeSHaAP
