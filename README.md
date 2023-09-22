@@ -13,4 +13,4 @@ Contato
 Se você tiver alguma dúvida ou sugestão, pode entrar em contato comigo no Discord: lawrencelud
 
 
-https://prnt.sc/V1_zQMeSHaAP
+![Screenshot_5](https://github.com/LawrenceLud/Trainer-Lies-Of-P/assets/118234117/123c1ecb-308a-4200-9984-1e2b4186d103)
